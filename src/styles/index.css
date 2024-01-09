@@ -1,0 +1,22 @@
+.profile_wrapper{
+    margin: 0 auto ;
+    width: 400px;
+    position: relative;
+    top: 32px;
+}
+
+img {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.status {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    color: #fff;
+    background: #009266;
+    padding: 4px 12px;
+    border-radius: 32px;
+
+}
